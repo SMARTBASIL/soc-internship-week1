@@ -85,7 +85,7 @@ sudo nmcli connection up "Wired connection 1"
 
 **Test:** Android pinged Kali (`10.0.0.2`) and the Internet (`8.8.8.8`), and Kali pinged Android (`10.0.0.9`). All had 0% packet loss.
 
-![Android and Kali ping test](screenshots%20of%20my%20week1%20projects/android_work.png)
+![Android Work](screenshots%20of%20my%20week1%20projects/android_work.png)
 
 ---
 
@@ -96,11 +96,17 @@ sudo nmcli connection up "Wired connection 1"
 | # | Lab | Skill practised | Score | Status |
 |---|---|---|---|---|
 | 1 | Identify the Attacker's IP | Finding an attacker in traffic | 80/100 | Completed |
+![Lab 3 Result](screenshots%20of%20my%20week1%20projects/Lab%203%20Result%20-%20nwobasi%20ifeanyichukwu%20basil.jpeg)
 | 2 | Follow TCP Stream 1 | Rebuilding a conversation | 100/100 | Completed |
+![Lab 4 Result](screenshots%20of%20my%20week1%20projects/Lab%204%20Result%20-%20nwobasi%20ifeanyichukwu%20basil.jpeg)
 | 3 | Follow TCP Stream, Part 2 | Finding hidden data | 100/100 | Completed |
+![Lab 5 Result](screenshots%20of%20my%20week1%20projects/Lab%205%20Result%20-%20nwobasi%20ifeanyichukwu%20basil.jpeg)
 | 4 | HTTP Plain Text Credentials | Spotting clear-text passwords | 90/100 | Completed |
+![Lab 6 Result](screenshots%20of%20my%20week1%20projects/Lab%206%20Result%20-%20nwobasi%20ifeanyichukwu%20basil.png)
 | 5 | Catch the Brute Force Attacker | Repeated login attempts | 80/100 | Completed |
+![Lab 7 Result](screenshots%20of%20my%20week1%20projects/Lab%207%20Result%20-%20Nwobasi%20Ifeanyichukwu%20Basil.png)
 | 6 | Catch the Call Scammer | VoIP call investigation | 100/100 | Completed |
+![Lab 8 Result](screenshots%20of%20my%20week1%20projects/Lab%208%20Result%20-%20Nwobasi%20Ifeanyichukwu%20Basil.png)
 
 ### What I learned
 - Spotting an attacker's IP by looking at who talks the most and to whom
@@ -110,6 +116,9 @@ sudo nmcli connection up "Wired connection 1"
 - Analysing VoIP traffic to investigate a scam call
 
 ---
+
+*For learning and authorised testing only. All Wireshark work was done inside the provided labs.*
+
 
 *For learning and authorised testing only. All Wireshark work was done inside the provided labs.*
 - Analysing VoIP traffic to investigate a scam call
