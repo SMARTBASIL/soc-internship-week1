@@ -85,7 +85,7 @@ sudo nmcli connection up "Wired connection 1"
 
 **Test:** Android pinged Kali (`10.0.0.2`) and the Internet (`8.8.8.8`), and Kali pinged Android (`10.0.0.9`). All had 0% packet loss.
 
-![Android Work](screenshots%20of%20my%20week1%20projects/android_work.png)
+![Android Work]([screenshots%20of%20my%20week1%20projects/android_work.png](https://github.com/SMARTBASIL/soc-internship-week1/blob/main/soc-internship-week1/screenshots%20of%20my%20week1%20projects/android%20work.png))
 
 ---
 
